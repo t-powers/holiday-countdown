@@ -1,0 +1,7 @@
+body {
+  width: 395px;
+  height: 852px;
+  background: url(images/pexels-jill-wellington-3264665.jpg),
+    lightgray 50% / cover no-repeat;
+  background-size: cover;
+}
