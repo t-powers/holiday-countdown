@@ -5,3 +5,20 @@ body {
     lightgray 50% / cover no-repeat;
   background-size: cover;
 }
+
+h1 {
+  width: 342px;
+  height: 129px;
+  border: 1px solid #000;
+  background: #137810;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  color: #fff;
+  text-align: center;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Emilys Candy;
+  font-size: 46px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
