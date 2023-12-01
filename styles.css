@@ -5,6 +5,12 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  text-align: center;
 
   border: 1px solid red;
+}
+h1 {
+  color: green;
+  text-shadow: 2px 2px 2px black;
+  font-size: 2em;
 }
