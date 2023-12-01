@@ -11,6 +11,7 @@ html {
 }
 h1 {
   color: green;
-  text-shadow: 2px 2px 2px black;
+  text-shadow: 2px 2px 2px red;
   font-size: 2em;
+  background: rgba(255, 255, 255, 0.75);
 }
