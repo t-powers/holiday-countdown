@@ -1,6 +1,10 @@
-body {
-  background-image: url(images/pexels-jill-wellington-3264665.jpg);
-  background-size: 400px 600px;
-  background-repeat: no-repeat;
+html {
+  background: url(images/pexels-jill-wellington-3264665.jpg) no-repeat center
+    center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
   border: 1px solid red;
 }
