@@ -15,3 +15,13 @@ h1 {
   font-size: 2em;
   background: rgba(255, 255, 255, 0.75);
 }
+
+.timerBackground {
+  background: repeating-linear-gradient(
+    45deg,
+    rgba(204, 208, 236, 0.495),
+    rgb(204, 208, 236) 10px,
+    rgb(152, 70, 70) 20px,
+    rgb(152, 70, 70) 20px
+  );
+}
