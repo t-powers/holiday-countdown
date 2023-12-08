@@ -1,4 +1,4 @@
-html {
+body {
   background: url(images/pexels-tim-mossholder-383646.jpg) no-repeat center
     center fixed;
   -webkit-background-size: cover;
@@ -24,11 +24,7 @@ h1 {
   font-size: 2rem;
   margin-top: 1rem;
   text-shadow: 2px 2px 2px black;
-  background: repeating-linear-gradient(
-    45deg,
-    rgba(204, 208, 236, 0.55),
-    rgba(204, 208, 236, 0.55) 10px,
-    rgba(152, 70, 70, 0.55) 20px,
-    rgba(152, 70, 70, 0.55) 20px
+ 
+}
   );
 }
