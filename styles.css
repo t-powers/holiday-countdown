@@ -28,9 +28,15 @@ h1 {
   background: rgba(55, 11, 11, 0.26);
   padding: 20px 10px;
 }
+
 #elfImage {
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
-  margin: 10px;
+
   padding-top: 30px;
+}
+
+p:last-of-type{
+  color:white;
+  font-size: 1rem;
 }
