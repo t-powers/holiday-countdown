@@ -1,11 +1,14 @@
 body {
-  background: url(images/pexels-tim-mossholder-383646.jpg) no-repeat center
-    center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   text-align: center;
+}
+
+#christmas {
+  background: url(images/pexels-tim-mossholder-383646.jpg) no-repeat center
+    center fixed;
 }
 
 @media (max-width: 600px) {
