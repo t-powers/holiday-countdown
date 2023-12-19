@@ -5,6 +5,9 @@ body {
   background-size: cover;
   text-align: center;
   height: 100%;
+  max-width: 500px;
+  margin-left:auto;
+  margin-right:auto;
 }
 #main {
   background: url(images/white-decor.png) no-repeat center center fixed;
