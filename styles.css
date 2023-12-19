@@ -39,6 +39,14 @@ h1 {
   padding: 5px 5px;
 }
 
+a{
+  border: 1px solid black;
+  border-radius: 45px;
+  padding: 5px 20px;
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: darkslategray
+}
 .timerBackground {
   color: rgb(255, 255, 255);
   border-radius: 30px;
