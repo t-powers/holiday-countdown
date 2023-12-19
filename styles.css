@@ -4,10 +4,14 @@ body {
   -o-background-size: cover;
   background-size: cover;
   text-align: center;
+}
+.max-width-wrapper {
   height: 100%;
   max-width: 500px;
-  margin-left:auto;
-  margin-right:auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  padding-right: 16px;
 }
 #main {
   background: url(images/white-decor.png) no-repeat center center fixed;
