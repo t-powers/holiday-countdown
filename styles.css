@@ -74,3 +74,7 @@ p:last-of-type {
   color: white;
   font-size: 1.5rem;
 }
+nav {
+  display: flex;
+  justify-content: center;
+}
