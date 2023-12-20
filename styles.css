@@ -4,9 +4,10 @@ body {
   -o-background-size: cover;
   background-size: cover;
   text-align: center;
+  border: 1px solid red;
+  height: 100%;
 }
 .max-width-wrapper {
-  height: 100%;
   max-width: 500px;
   margin-left: auto;
   margin-right: auto;
@@ -40,12 +41,11 @@ h1 {
 }
 
 a {
-  border: 1px solid black;
   border-radius: 45px;
   padding: 5px 20px;
   text-decoration: none;
   font-size: 1.5rem;
-  color: darkslategray;
+  color: rgb(47, 79, 79);
 }
 .timerBackground {
   color: rgb(255, 255, 255);
